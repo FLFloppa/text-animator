@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29f51eac772c0a4ca05b8c18247c810, type: 3}
+  m_Name: WaveTagHandler
+  m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Tags.Assets.WaveTagHandlerAsset
+  tagIdentifiers:
+  - wave
+  amplitude: {fileID: 11400000, guid: 9d30d70f579f8844d87afc99b6cae6b5, type: 2}
+  frequency: {fileID: 11400000, guid: 9eef609c69d4b9f40b637af00efa5873, type: 2}
+  phase: {fileID: 11400000, guid: b1919b191971cf44fb3523f27935e616, type: 2}

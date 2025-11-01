@@ -1,0 +1,17 @@
+{
+    "name": "FLFloppa.TextAnimator.Editor",
+    "references": [
+        "FLFloppa.TextAnimator.Runtime",
+        "FLFloppa.EditorHelpers"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}

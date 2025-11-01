@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b51058848b7dce439f43bbf84a2ce57, type: 3}
+  m_Name: TagHandlerRegistry
+  m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Tags.Assets.TagHandlerRegistryAsset
+  handlers:
+  - {fileID: 11400000, guid: 442ce70b559b58c45bf3a7583cc6688d, type: 2}
+  - {fileID: 11400000, guid: dca5fa5b1419086448c909d67af8f150, type: 2}
+  - {fileID: 11400000, guid: 55d98a78ca38c754c90f1fde18017c25, type: 2}
+  - {fileID: 11400000, guid: 619b3e6b28dfd9941a3dfb1c38846d9b, type: 2}
+  - {fileID: 11400000, guid: e9aa65cb7c459144692d2e86cc1df3b8, type: 2}
+  - {fileID: 11400000, guid: f108964c3b890da42814587ef2c0637d, type: 2}
+  - {fileID: 11400000, guid: f8624473d6f57ea4d88a3f52de5dd898, type: 2}
+  - {fileID: 11400000, guid: 0a26688f3dce2da46ba6e4dde6e35d80, type: 2}
+  - {fileID: 11400000, guid: ddb14dc6e1f0caf468909d65b9d826c2, type: 2}
+  - {fileID: 11400000, guid: dcdbaefe42b439549b9e939121eaaa7b, type: 2}
+  - {fileID: 11400000, guid: 35a387ac6ded0b042bbbf959a3c8a354, type: 2}

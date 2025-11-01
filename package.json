@@ -1,0 +1,34 @@
+{
+  "name": "com.flfloppa.text-animator",
+  "displayName": "FLFloppa Text Animator",
+  "version": "0.2.0",
+  "description": "High-performance, strongly-typed tag-driven text animation system for Unity supporting multiple rendering targets with zero-allocation playback.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "Docs~/design.md",
+  "changelogUrl": "Docs/CHANGELOG.md",
+  "licensesUrl": "https://github.com/FLFloppa/text-animator/blob/main/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLFloppa/text-animator.git"
+  },
+  "author": {
+    "name": "FLFloppa",
+    "email": "flfloppa@yandex.ru",
+    "url": "https://github.com/FLFloppa"
+  },
+  "keywords": [
+    "text",
+    "animation",
+    "unity",
+    "flfloppa"
+  ],
+  "category": "Framework",
+  "samples": [
+    {
+      "displayName": "Basic Text Animator Setup",
+      "description": "Sample scene and assets showcasing the core text animation pipeline and tag usage.",
+      "path": "Samples~/BasicSetup"
+    }
+  ]
+}
