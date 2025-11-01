@@ -10,7 +10,7 @@ _Tag-driven, editor-first character animation pipeline for Unity 2022.3+_
 
 Want to make your dialogue shimmer, bounce, and react without hand-animating every character? FLFloppa Text Animator lets you describe motion with friendly `{wave}` or `{rainbow}` tags, then handles the heavy lifting with a modular, zero-allocation runtime. Prefer building bespoke behaviours? Extend the pipeline with your own handlers, applicators, and subsystems tailored to any text component—even custom ones.
 
-<video src="Docs~/vids/demo_init.mp4" controls autoplay loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video>
+<img src="Docs~/vids/demo_init.gif" alt="Demo – initial markup playback" style="max-width: 100%; border-radius: 8px;" />
 
 </div>
 
@@ -125,7 +125,7 @@ For a preconfigured scene, import the **Basic Text Animator Setup** sample from 
 
 A comprehensive parameter matrix is available in [`Docs/tag_reference.md`](Docs/tag_reference.md).
 
-<video src="Docs~/vids/demo_mix.mp4" controls autoplay loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video>
+<img src="Docs~/vids/demo_mix.gif" alt="Demo – tag mix showcase" style="max-width: 100%; border-radius: 8px;" />
 
 ---
 
