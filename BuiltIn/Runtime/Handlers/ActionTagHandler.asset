@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074e52b015289974a9f38babe161e9db, type: 3}
   m_Name: ActionTagHandler
   m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Tags.Assets.ActionTagHandlerAsset
-  tagIdentifiers: []
-  action: {fileID: 0}
+  tagIdentifiers:
+  - action
+  action: {fileID: 11400000, guid: eda3aa0a18c590e4080d1dd14b97b098, type: 2}

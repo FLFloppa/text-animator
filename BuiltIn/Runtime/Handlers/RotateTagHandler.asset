@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 855b4d09bd33a2342a8ee31ad70c3c21, type: 3}
   m_Name: RotateTagHandler
   m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Tags.Assets.RotateTagHandlerAsset
-  tagIdentifiers: []
-  duration: {fileID: 0}
-  loop: {fileID: 0}
+  tagIdentifiers:
+  - rotate
+  duration: {fileID: 11400000, guid: 2ee5c1d7e6448184aba0360721e8164f, type: 2}
+  loop: {fileID: 11400000, guid: 42a87a37eb8630f44819cb83d0d53c65, type: 2}
   rotationCurve:
     serializedVersion: 2
     m_Curve:

@@ -28,6 +28,7 @@ Want to make your dialogue shimmer, bounce, and react without hand-animating eve
 * [Architecture overview](#architecture-overview)
 * [Editor tooling](#editor-tooling)
 * [Samples](#samples)
+* [Animation Studio](#animation-studio)
 * [Documentation](#documentation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -172,6 +173,30 @@ Import the **Basic Text Animator Setup** sample (`Samples~/BasicSetup/`) to expl
 
 ---
 
+## Animation Studio
+
+The Animation Studio is a multi-window authoring environment built on UI Toolkit that speeds up tag composition, handler browsing, and live preview workflows.
+
+<img src="Docs~/images/studio.png" alt="Demo – initial markup playback" style="max-width: 100%; border-radius: 8px;" />
+
+### Key capabilities
+
+* __Tag-aware markup editor__ – syntax-highlighting text window with inline selection syncing and undo-safe tag injection.
+* __Effects catalog__ – grouped tag cards with drag-and-drop support, search-as-you-type filtering, and detailed handler summaries.
+* __Tag inspector__ – reorderable card stack bound to the current selection with inline parameter editing and handler asset field inspection.
+* __Live preview pipeline__ – dedicated preview scene that mirrors playback state, supporting pause/scrub and auto-refresh loops.
+
+### Getting started
+
+1. Launch the studio via `Window → FLFloppa → Text Animator → Animation Studio`.
+2. Load or paste markup into the Markup window, then select text to reveal matching tag cards.
+3. Drag new effects from the catalog or edit parameters directly in the inspector; changes propagate back to markup instantly.
+4. Press **Play** inside the Playback panel to validate timing, loop behaviour, and handler stacking.
+
+For a full walkthrough—including workspace layout, workflow tips, and troubleshooting—see the dedicated [Animation Studio Manual](Docs/animation_studio_manual.md).
+
+---
+
 ## Editor setup
 
 For a step-by-step authoring tutorial covering parameter assets, tag handlers, action assets, registries, subsystems, and the `TextAnimator` component, see the dedicated [Editor Setup Guide](Docs/editor_setup.md).
@@ -185,6 +210,7 @@ For a step-by-step authoring tutorial covering parameter assets, tag handlers, a
 * [`Docs~/use-case-1.md`](Docs/use-case-1.md) – Narrative dialogue animation walkthrough.
 * [`Docs~/use-case-2.md`](Docs/use-case-2.md) – HUD notifications and rapid feedback effects.
 * [`Docs~/use-case-3.md`](Docs/use-case-3.md) – Combining actions with timeline events.
+* [`Docs/animation_studio_manual.md`](Docs/animation_studio_manual.md) – Workspace guide for catalog browsing, inspector workflows, and preview operations.
 * [`Docs/CHANGELOG.md`](Docs/CHANGELOG.md) – Release notes (to be generated for GitHub release).
 
 Unity Package Manager links the `documentationUrl` and `changelogUrl` metadata to these files once hosted on GitHub.

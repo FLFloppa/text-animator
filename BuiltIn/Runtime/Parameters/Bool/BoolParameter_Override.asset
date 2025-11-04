@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e39600400a04143b7f8fd3bcb7caf7, type: 3}
   m_Name: BoolParameter_Override
   m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Parameters.BoolParameterDefinitionAsset
-  identifiers: []
+  identifiers:
+  - override
   defaultValue: 0
   trueValues:
   - true

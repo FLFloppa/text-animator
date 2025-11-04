@@ -1,7 +1,7 @@
 {
   "name": "com.flfloppa.text-animator",
   "displayName": "FLFloppa Text Animator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "High-performance, strongly-typed tag-driven text animation system for Unity supporting multiple rendering targets with zero-allocation playback.",
   "unity": "2022.3",
   "unityRelease": "0f1",

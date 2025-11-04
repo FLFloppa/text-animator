@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98273dbca659f3c429220cc77c30890e, type: 3}
   m_Name: PositionOffsetTagHandler
   m_EditorClassIdentifier: FLFloppa.TextAnimator.Runtime::FLFloppa.TextAnimator.Tags.Assets.PositionOffsetTagHandlerAsset
-  tagIdentifiers: []
-  duration: {fileID: 0}
-  loop: {fileID: 0}
-  override: {fileID: 0}
+  tagIdentifiers:
+  - positionoffset
+  duration: {fileID: 11400000, guid: 2ee5c1d7e6448184aba0360721e8164f, type: 2}
+  loop: {fileID: 11400000, guid: 42a87a37eb8630f44819cb83d0d53c65, type: 2}
+  override: {fileID: 11400000, guid: 258dca1cf4a1079418fde6dc07b54ab6, type: 2}
   positionXCurve:
     serializedVersion: 2
     m_Curve:
@@ -28,6 +29,24 @@ MonoBehaviour:
       weightedMode: 0
       inWeight: 0
       outWeight: 0
+    - serializedVersion: 3
+      time: 0.24999999
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.75
+      value: -1
+      inSlope: -0.69853336
+      outSlope: -0.69853336
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
     - serializedVersion: 3
       time: 1
       value: 0
@@ -52,6 +71,24 @@ MonoBehaviour:
       weightedMode: 0
       inWeight: 0
       outWeight: 0
+    - serializedVersion: 3
+      time: 0.24999999
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.75
+      value: -1
+      inSlope: -0.69853336
+      outSlope: -0.69853336
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
     - serializedVersion: 3
       time: 1
       value: 0
