@@ -63,7 +63,7 @@ Want to make your dialogue shimmer, bounce, and react without hand-animating eve
 2. Click the **+** button → **Add package from git URL…**
 3. Paste the repository URL and optional release tag:
    ```text
-   https://github.com/FLFloppa/text-animator.git#v0.2.0
+   https://github.com/FLFloppa/text-animator.git#v0.3.0
    ```
 4. Unity installs the package and exposes its samples.
 5. **Install FLFloppa Editor Helpers** via Git URL as well:
